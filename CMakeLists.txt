@@ -9,3 +9,4 @@ endif()
 project ("cpp1c_2s")
 
 add_subdirectory ("lab01.1")
+add_subdirectory ("lab01.2")
